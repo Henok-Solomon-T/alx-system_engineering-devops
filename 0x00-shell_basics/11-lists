@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -l .. /boot
+#1/bin/bash
+ls -la cd.. cd/root
